@@ -13,7 +13,7 @@ Learn about VS Code IDE [Youtube]
 
 **Thoughts** I've commited to #100DaysOfCode. Its a great feeling that I've step up to a coding progress.
 
-### Day
+### Day 2:
 
 **Link(s) to work**
 
