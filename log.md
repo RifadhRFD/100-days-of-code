@@ -13,7 +13,12 @@ Learn about VS Code IDE [Youtube]
 
 **Thoughts** I've commited to #100DaysOfCode. Its a great feeling that I've step up to a coding progress.
 
-### Day 2:
+### Day 2: Nov 18, Thursday
+
+Completed Basic CSS
+Learned to use id and class
+Learned basic elements padding,margin
+Learned about Re-sizing image and image borders
 
 **Link(s) to work**
 
