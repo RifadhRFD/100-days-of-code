@@ -18,10 +18,11 @@ Learn about VS Code IDE [Youtube]<br/>
 
 ### Day 2: Nov 18, Thursday
 
-Completed Basic CSS<br/>
-Learned to use id and class<br/>
-Learned basic elements padding,margin<br/>
-Learned about Re-sizing image and image borders<br/>
+Completed basic CSS<br/>
+Learned to use Id and Class<br/>
+Learned basic elements padding,margin,borders<br/>
+Learned override elements properties using class and id's<br/>
+Learned hex code, rgb values, css fallbacks and inheritance<br/>
 
 <br/><br/><br/>
 **Link(s) to work**
