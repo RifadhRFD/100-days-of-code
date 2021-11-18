@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-#### freeCodeCamp
+## freeCodeCamp
 
 <br/>
 
@@ -23,6 +23,7 @@ Learned to use id and class<br/>
 Learned basic elements padding,margin<br/>
 Learned about Re-sizing image and image borders<br/>
 
+<br/><br/><br/>
 **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
