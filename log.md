@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-#######freecodecamp
+####freeCodeCamp
 <br/>
 
 ### Day 1: Nov 17, Wednesday
