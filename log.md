@@ -42,7 +42,7 @@ HTML Tip -<br/>
    &nbsp;
    <br/>
 2. target=”\_blank” is a special keyword that will open links in a new tab every time.<br/>
-   <a href="https://twitter.com" target="_blank">Twitter</a>
+   <a href="https://twitter.com" target="_blank">Twitter </a>
 
 <br/><br/>
 
