@@ -7,7 +7,7 @@
 ### Day 1: Nov 17, Wednesday
 
 <br/>
-**Today's Progress**: Setup VS Code and installed an extension to track my progess
+**Today's Progress** : Setup VS Code and installed an extension to track my progess
 [Extension: Code Time by Sofware.com ]<br/>
 
 Completed Basic HTML and HTML5 [100%]<br/>
@@ -36,20 +36,24 @@ Learned some color theories [background and complementary colors]<br/>
 <br/>
 Twitter:<br/>
 HTML Tip -<br/>
-<br/>
 
 1. Sometimes you want to keep certain words together so that they’re not split over two lines. The way to do this is with a non-breaking space in HTML -><br/>
-   &nbsp;
+   &nbsp
    <br/>
 2. target=”\_blank” is a special keyword that will open links in a new tab every time.<br/>
    <a href="https://twitter.com" target="_blank">Twitter </a>
 
 <br/><br/>
 
-###Day 4:
+###Day 4:Nov 20,Saturday
+<br/>
+Learned to adjust hue, tone of a color. <br/>
+Explored CSS Linear Gradient,CSS Transform-scale, CSS Transform property SkewX and SkewY. <br/>
+Learned to create graphics using CSS and Shape using CSS and HTML.<br/>
+<br/>
+
+###Day 5:
 
 <br/><br/><br/>
-**Link(s) to work**
-
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Link(s) to work
+https://www.freecodecamp.com/challenges/
