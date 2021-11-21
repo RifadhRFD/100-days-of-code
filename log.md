@@ -58,7 +58,22 @@ Learned CSS @keyframes and animation properties.<br/>
 Explored CSS animation positions, fading elements, infinite animation count.<br/>
 Learned about Bezier-curve and moving graphics
 <br/>
-
+Twitter:
+<br/>
+CSS Tip:
+<br/>
+.width-border{ <br/>
+border-width: 2px; <br/>
+border-style: solid; <br/>
+border-color: blue; <br/>
+}  
+<br/>
+/_ Simple way to do this _/ <br/>
+<br/>
+.width-border{ <br/>
+border: 2px solid blue; <br/>
+}  
+<br/><br/>
 ###Day 6:Nov
 
 <br/><br/><br/>
