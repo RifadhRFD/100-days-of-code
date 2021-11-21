@@ -52,7 +52,14 @@ Explored CSS Linear Gradient,CSS Transform-scale, CSS Transform property SkewX a
 Learned to create graphics using CSS and Shape using CSS and HTML.<br/>
 <br/>
 
-###Day 5:
+###Day 5:Nov 21,Sunday
+<br/>
+Learned CSS @keyframes and animation properties.<br/>
+Explored CSS animation positions, fading elements, infinite animation count.<br/>
+Learned about Bezier-curve and moving graphics
+<br/>
+
+###Day 6:Nov
 
 <br/><br/><br/>
 Link(s) to work
