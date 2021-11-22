@@ -74,7 +74,15 @@ border-color: blue; <br/>
 border: 2px solid blue; <br/>
 }  
 <br/><br/>
-###Day 6:Nov
+###Day 6:Nov 22,Monday
+<br/>
+Completed Applied Accessibility. <br/>
+Learned to make Screen Readers navigation easier with header, nav, footer.<br/>
+Learned to improve Form and Chart accessibility.<br/>
+Learned to use HTML access keys and tab index.
+<br/>
+
+###Day 7:Nov
 
 <br/><br/><br/>
 Link(s) to work
