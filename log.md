@@ -45,14 +45,16 @@ HTML Tip -<br/>
 
 <br/><br/>
 
-###Day 4:Nov 20,Saturday
+### Day 4:Nov 20,Saturday
+
 <br/>
 Learned to adjust hue, tone of a color. <br/>
 Explored CSS Linear Gradient,CSS Transform-scale, CSS Transform property SkewX and SkewY. <br/>
 Learned to create graphics using CSS and Shape using CSS and HTML.<br/>
 <br/>
 
-###Day 5:Nov 21,Sunday
+### Day 5:Nov 21,Sunday
+
 <br/>
 Learned CSS @keyframes and animation properties.<br/>
 Explored CSS animation positions, fading elements, infinite animation count.<br/>
@@ -74,7 +76,7 @@ border-color: blue; <br/>
 border: 2px solid blue; <br/>
 }  
 <br/><br/>
-###Day 6:Nov 22,Monday
+### Day 6:Nov 22,Monday
 <br/>
 Completed Applied Accessibility. <br/>
 Learned to make Screen Readers navigation easier with header, nav, footer.<br/>
@@ -82,7 +84,7 @@ Learned to improve Form and Chart accessibility.<br/>
 Learned to use HTML access keys and tab index.
 <br/>
 
-###Day 7:Nov
+### Day 7:Nov
 
 <br/><br/><br/>
 Link(s) to work
