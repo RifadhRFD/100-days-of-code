@@ -76,7 +76,9 @@ border-color: blue; <br/>
 border: 2px solid blue; <br/>
 }  
 <br/><br/>
-### Day 6:Nov 22,Monday
+
+### Day 6:Nov 22, Monday
+
 <br/>
 Completed Applied Accessibility. <br/>
 Learned to make Screen Readers navigation easier with header, nav, footer.<br/>
