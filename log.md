@@ -86,7 +86,15 @@ Learned to improve Form and Chart accessibility.<br/>
 Learned to use HTML access keys and tab index.
 <br/>
 
-### Day 7:Nov
+### Day 7:Nov 23, Tuesday
+
+<br/>
+Completed Responsive Web Design Principal.<br/>
+Learned about creating media query, responsive image and typography.<br/>
+Explored about modifying your Linkedin profile to get a job in tech. 
+<br/>
+
+### Day 8:
 
 <br/><br/><br/>
 Link(s) to work
