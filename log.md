@@ -94,7 +94,14 @@ Learned about creating media query, responsive image and typography.<br/>
 Explored about modifying your Linkedin profile to get a job in tech. 
 <br/>
 
-### Day 8:
+### Day 8:Nov 24, Wednesday
+
+Revised HTML and CSS <br/>
+Explored Navigation bar styles <br/>
+Learned Emmet->Faster HTML & CSS Workflow
+<br/>
+
+### Day 9:
 
 <br/><br/><br/>
 Link(s) to work
