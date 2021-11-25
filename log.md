@@ -101,7 +101,14 @@ Explored Navigation bar styles <br/>
 Learned Emmet->Faster HTML & CSS Workflow
 <br/>
 
-### Day 9:
+### Day 9:Nov 25, Thursday
+
+Practiced simple navigation bar using html and css<br/>
+Working on simple basic website<br/>
+Explored on Emmet
+<br/>
+
+### Day 10:
 
 <br/><br/><br/>
 Link(s) to work
