@@ -108,7 +108,11 @@ Working on simple basic website<br/>
 Explored on Emmet
 <br/>
 
-### Day 10:
+### Day 10:Nov 26, Friday
+
+learned the fundamentals of flexbox.
+learned creating dynamic layouts by building a Twitter card.
+Explored flex-wrap,flex-grow,flex-shrink and more properties.
 
 <br/><br/><br/>
 Link(s) to work
