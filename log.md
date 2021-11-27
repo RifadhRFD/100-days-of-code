@@ -110,9 +110,17 @@ Explored on Emmet
 
 ### Day 10:Nov 26, Friday
 
-learned the fundamentals of flexbox.
-learned creating dynamic layouts by building a Twitter card.
+Learned the fundamentals of flexbox. <br/>
+Learned creating dynamic layouts by building a Twitter card.<br/>
 Explored flex-wrap,flex-grow,flex-shrink and more properties.
+<br/>
+
+### Day 11:Nov 27, Saturday
+
+Learned basic CSS Grid. <br/>
+Learned grid-template rows & columns. <br/>
+Learned to create gap between rows and columns.
+<br/>
 
 <br/><br/><br/>
 Link(s) to work
