@@ -122,6 +122,14 @@ Learned grid-template rows & columns. <br/>
 Learned to create gap between rows and columns.
 <br/>
 
+### Day 12:Nov 28, Sunday
+
+Learned grid control spacing, justify-self, align-self and justify items and align items. <br/>
+Watch some videos about grid basics. <br/>
+<br/>
+
+### Day 13:
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
