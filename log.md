@@ -128,7 +128,16 @@ Learned grid control spacing, justify-self, align-self and justify items and ali
 Watch some videos about grid basics. <br/>
 <br/>
 
-### Day 13:
+### Day 13:Nov 29, Monday
+
+Create flexible layout using grid auto-fill and auto-fit commands. <br/>
+Use media queries to create flexible Responsive layouts. <br/>
+Watch grid tutorials. <br/>
+Check here <br/>
+https://css-tricks.com/snippets/css/complete-guide-grid/
+<br/>
+
+### Day 14:Nov 30, Tuesday
 
 <br/><br/><br/>
 Link(s) to work
