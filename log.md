@@ -139,6 +139,12 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ### Day 14:Nov 30, Tuesday
 
+Explored on git and github. <br/>
+Learned basic git commands. <br/>
+<br/>
+
+### Day 15:
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
