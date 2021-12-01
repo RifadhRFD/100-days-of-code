@@ -143,7 +143,12 @@ Explored on git and github. <br/>
 Learned basic git commands. <br/>
 <br/>
 
-### Day 15:
+### Day 15:Dec 1, Wednesday
+
+Revised Basic CSS, Emmet, position, CSS Unit of measurements. <br/>
+\*Learn Again <br/>
+
+### Day 16:
 
 <br/><br/><br/>
 Link(s) to work
