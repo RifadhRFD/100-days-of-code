@@ -148,7 +148,15 @@ Learned basic git commands. <br/>
 Revised Basic CSS, Emmet, position, CSS Unit of measurements. <br/>
 \*Learn Again <br/>
 
-### Day 16:
+### Day 16:Dec 2,Thursday
+
+Working on creating a tribute page in freeCodeCamp. <br>
+
+Not much familiar with all the html and css properties though manage to do with <br>
+the help of tutorials and documentations.
+<br>
+
+### Day 17:
 
 <br/><br/><br/>
 Link(s) to work
