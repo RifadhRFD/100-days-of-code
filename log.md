@@ -156,7 +156,13 @@ Not much familiar with all the html and css properties though manage to do with 
 the help of tutorials and documentations.
 <br>
 
-### Day 17:
+### Day 17:Dec 3,Friday
+
+Completed creating tribute page. <br>
+https://codepen.io/rifadhrfd/pen/PoJqdMM <br>
+Learned to use css properties for good-looking website. <br>
+
+### Day 18:Dec 4,Saturday
 
 <br/><br/><br/>
 Link(s) to work
