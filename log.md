@@ -162,7 +162,12 @@ Completed creating tribute page. <br>
 https://codepen.io/rifadhrfd/pen/PoJqdMM <br>
 Learned to use css properties for good-looking website. <br>
 
-### Day 18:Dec 4,Saturday
+### Day 18,19:Dec 4,5 Saturday & Sunday
+
+Working on survey form using html and css
+@Freecodecamp project
+
+### Day 20:
 
 <br/><br/><br/>
 Link(s) to work
