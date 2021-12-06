@@ -164,10 +164,14 @@ Learned to use css properties for good-looking website. <br>
 
 ### Day 18,19:Dec 4,5 Saturday & Sunday
 
-Working on survey form using html and css
-@Freecodecamp project
+Working on survey form using html and css <br/>
+@Freecodecamp project <br/>
 
-### Day 20:
+### Day 20:Dec 4,Monday
+
+Added some CSS elements to survey form.
+
+### Day 21:
 
 <br/><br/><br/>
 Link(s) to work
