@@ -185,8 +185,17 @@ some CSS related contents on youtube.
 
 ### Day 24:Dec 10,Friday
 
-Build a survey form with the help of tutorials and documentations.
+Build a survey form with the help of tutorials and documentations. <br/>
 https://codepen.io/rifadhrfd/pen/wvrzqVy
+<br/>
+
+### Day 25:Dec 10,Friday
+
+Working on Product Landing Page  <br/>
+included logo, nav-bar, product details, price and contact info   <br/>
+
+### Day 26:Dec 11,Saturday
+
 
 <br/><br/><br/>
 Link(s) to work
