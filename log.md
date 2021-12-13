@@ -189,12 +189,20 @@ Build a survey form with the help of tutorials and documentations. <br/>
 https://codepen.io/rifadhrfd/pen/wvrzqVy
 <br/>
 
-### Day 25:Dec 10,Friday
+### Day 25:Dec 11,Saturday
 
 Working on Product Landing Page  <br/>
 included logo, nav-bar, product details, price and contact info   <br/>
 
-### Day 26:Dec 11,Saturday
+### Day 26,27:Dec 12,13,Saturday
+
+Completed @freeCodeCamp product landing page project.
+Attended couple of twitter spaces on 'web development'
+
+Code pen link:
+https://codepen.io/rifadhrfd/pen/MWEJgPd
+
+### Day 28
 
 
 <br/><br/><br/>
