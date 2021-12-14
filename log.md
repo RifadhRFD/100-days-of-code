@@ -174,7 +174,7 @@ Added some CSS elements to survey form. <br/>
 ### Day 21-22:Dec 7,8 Tuesday Wednesday
 
 Lost some progress due to busy schedule.
-Hope I'll continue again..... 
+Hope I'll continue again.....
 <br/>
 
 ### Day 23:Dec 9,Thursday
@@ -191,10 +191,10 @@ https://codepen.io/rifadhrfd/pen/wvrzqVy
 
 ### Day 25:Dec 11,Saturday
 
-Working on Product Landing Page  <br/>
-included logo, nav-bar, product details, price and contact info   <br/>
+Working on Product Landing Page <br/>
+included logo, nav-bar, product details, price and contact info <br/>
 
-### Day 26,27:Dec 12,13,Saturday
+### Day 26,27:Dec 12,13,Sunday-Monday
 
 Completed @freeCodeCamp product landing page project.
 Attended couple of twitter spaces on 'web development'
@@ -202,8 +202,12 @@ Attended couple of twitter spaces on 'web development'
 Code pen link:
 https://codepen.io/rifadhrfd/pen/MWEJgPd
 
-### Day 28
+### Day 28:Dec 14, Tuesday
 
+Learned some CSS properties.
+*position *flex \*Before and After Pseudo Elements
+
+### Day 29:
 
 <br/><br/><br/>
 Link(s) to work
