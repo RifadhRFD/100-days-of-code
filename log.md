@@ -207,7 +207,12 @@ https://codepen.io/rifadhrfd/pen/MWEJgPd
 Learned some CSS properties.
 *position *flex \*Before and After Pseudo Elements
 
-### Day 29:
+### Day 29:Dec 15, Wednesday
+
+Working on freeCodeCamp Technical Documentation Page Project.
+•section •article •navigation
+
+### Day 30:
 
 <br/><br/><br/>
 Link(s) to work
