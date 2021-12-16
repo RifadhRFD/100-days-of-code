@@ -196,23 +196,29 @@ included logo, nav-bar, product details, price and contact info <br/>
 
 ### Day 26,27:Dec 12,13,Sunday-Monday
 
-Completed @freeCodeCamp product landing page project.
-Attended couple of twitter spaces on 'web development'
+Completed @freeCodeCamp product landing page project. <br>
+Attended couple of twitter spaces on 'web development' <br>
 
-Code pen link:
+Code pen link: <br>
 https://codepen.io/rifadhrfd/pen/MWEJgPd
 
 ### Day 28:Dec 14, Tuesday
 
-Learned some CSS properties.
-*position *flex \*Before and After Pseudo Elements
+Learned some CSS properties. <br>
+*position *flex \*Before and After Pseudo Elements <br>
 
 ### Day 29:Dec 15, Wednesday
 
-Working on freeCodeCamp Technical Documentation Page Project.
-•section •article •navigation
+Working on freeCodeCamp Technical Documentation Page Project. <br>
+•section •article •navigation <br>
 
-### Day 30:
+### Day 30:Dec 16,Thurday
+
+Successfully Build a Technical Documentation Page.
+CodePen Link :
+https://codepen.io/rifadhrfd/pen/NWajKGR
+
+### Day 31:Dec 17,Friday
 
 <br/><br/><br/>
 Link(s) to work
