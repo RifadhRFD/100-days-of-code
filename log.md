@@ -220,6 +220,14 @@ https://codepen.io/rifadhrfd/pen/NWajKGR
 
 ### Day 31:Dec 17,Friday
 
+Learned CSS Grid @usemmtuts youtube tutorials.
+<br>
+
+### Day 32:Dec 18, Saturday
+
+Explored some ideas to build a responsive simple portfolio. 
+<br>
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
