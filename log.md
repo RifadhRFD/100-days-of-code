@@ -225,8 +225,12 @@ Learned CSS Grid @usemmtuts youtube tutorials.
 
 ### Day 32:Dec 18, Saturday
 
-Explored some ideas to build a responsive simple portfolio. 
+Explored some ideas to build a responsive simple portfolio.
 <br>
+
+### Day 33:Dec 18,Saturday
+
+Working on Portfolio project @freeCodeCamp. <br>
 
 <br/><br/><br/>
 Link(s) to work
