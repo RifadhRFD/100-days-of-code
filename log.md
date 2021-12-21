@@ -228,9 +228,20 @@ Learned CSS Grid @usemmtuts youtube tutorials.
 Explored some ideas to build a responsive simple portfolio.
 <br>
 
-### Day 33:Dec 18,Saturday
+### Day 33:Dec 19,Saturday
 
 Working on Portfolio project @freeCodeCamp. <br>
+
+### Day 34,35: Dec 20,21 Sunday,Monday
+
+Build @freecodecamp personal portfolio project. <br/>
+https://codepen.io/rifadhrfd/pen/BawdVeo <br/>
+<br/>
+*spend more time on this project than previous projects. <br/>
+*Learned a lot though need to improve more. <br/>
+\*not the best but fine. #learntocode <br/>
+
+### Day 36
 
 <br/><br/><br/>
 Link(s) to work
