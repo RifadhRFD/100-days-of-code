@@ -241,7 +241,14 @@ https://codepen.io/rifadhrfd/pen/BawdVeo <br/>
 *Learned a lot though need to improve more. <br/>
 \*not the best but fine. #learntocode <br/>
 
-### Day 36
+### Day 36:Dec 22,Tuesday
+
+•I just earned the Responsive Web Design certification @freeCodeCamp! <br/>
+Check it out here: <br/>
+https://freecodecamp.org/certification/fccb45d1f9a-96a7-498a-baa5-99f82709dd83/responsive-web-design <br/>
+•Revised CSS properties. <br/>
+
+### Day 37:Dec 23
 
 <br/><br/><br/>
 Link(s) to work
