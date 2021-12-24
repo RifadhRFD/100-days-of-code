@@ -228,11 +228,11 @@ Learned CSS Grid @usemmtuts youtube tutorials.
 Explored some ideas to build a responsive simple portfolio.
 <br>
 
-### Day 33:Dec 19,Saturday
+### Day 33:Dec 19,Sunday
 
 Working on Portfolio project @freeCodeCamp. <br>
 
-### Day 34,35: Dec 20,21 Sunday,Monday
+### Day 34,35: Dec 20,21 Monday,Tuesday
 
 Build @freecodecamp personal portfolio project. <br/>
 https://codepen.io/rifadhrfd/pen/BawdVeo <br/>
@@ -241,14 +241,26 @@ https://codepen.io/rifadhrfd/pen/BawdVeo <br/>
 *Learned a lot though need to improve more. <br/>
 \*not the best but fine. #learntocode <br/>
 
-### Day 36:Dec 22,Tuesday
+### Day 36:Dec 22,Wednesday
 
 •I just earned the Responsive Web Design certification @freeCodeCamp! <br/>
 Check it out here: <br/>
 https://freecodecamp.org/certification/fccb45d1f9a-96a7-498a-baa5-99f82709dd83/responsive-web-design <br/>
 •Revised CSS properties. <br/>
 
-### Day 37:Dec 23
+### Day 37:Dec 23,Thursday
+
+Revised CSS properties. <br/>
+Watch tutorials about JavaScript. <br/>
+
+### Day 38:Dec 24,Friday
+
+Attended Twitter Space host by @DThompsonDev <br/>
+->The space illuminated the facts about why do you need to have CS degree. ->Importance of learning basics with true understanding. <br/>
+->Importance of building projects.
+<br/>
+
+### Day 39:
 
 <br/><br/><br/>
 Link(s) to work
