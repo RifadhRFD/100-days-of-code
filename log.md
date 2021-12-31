@@ -260,7 +260,22 @@ Attended Twitter Space host by @DThompsonDev <br/>
 ->Importance of building projects.
 <br/>
 
-### Day 39:
+### Day 39:Dec 26,Sunday
+
+Started JavaScript Algorithms and Data Structures @freeCodeCamp <br>
+Learned JS variables, assignment operators and Basic calculations. <br>
+Explore Differences Between the var and let Keywords. <br>
+
+lost some progress due to fever.
+
+### Day 40: Dec 31,Friday
+
+Understand String Immutability. <br>
+Explored JavaScript Arrays, Multi-dimensional arrays. <br>
+Access and Modify Array Data with Indexes. <br>
+Manipulate Arrays With push() pop() shift() unshift(). <br>
+
+### Day 41:
 
 <br/><br/><br/>
 Link(s) to work
