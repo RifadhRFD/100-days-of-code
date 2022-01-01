@@ -270,12 +270,19 @@ lost some progress due to fever.
 
 ### Day 40: Dec 31,Friday
 
+<br>
 Understand String Immutability. <br>
 Explored JavaScript Arrays, Multi-dimensional arrays. <br>
 Access and Modify Array Data with Indexes. <br>
 Manipulate Arrays With push() pop() shift() unshift(). <br>
 
-### Day 41:
+### Day 41: Jan 1,Saturday
+
+Learned JavaScript functions and arguments. <br>
+Understand Local and Global functions. <br>
+Explored using conditional operators in JS. <br>
+
+### Day 42: Jan 2,Sunday
 
 <br/><br/><br/>
 Link(s) to work
