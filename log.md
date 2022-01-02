@@ -284,6 +284,11 @@ Explored using conditional operators in JS. <br>
 
 ### Day 42: Jan 2,Sunday
 
+Practiced golf code exercise @freecodecamp   <br>
+Learned switch statements [many, default an mutiple chain]  <br>
+Learned Replacing If Else Chains with Switch <br>
+
+### Day 43:
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
