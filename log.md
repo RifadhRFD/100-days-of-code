@@ -284,11 +284,18 @@ Explored using conditional operators in JS. <br>
 
 ### Day 42: Jan 2,Sunday
 
-Practiced golf code exercise @freecodecamp   <br>
-Learned switch statements [many, default an mutiple chain]  <br>
+Practiced golf code exercise @freecodecamp <br>
+Learned switch statements [many, default an mutiple chain] <br>
 Learned Replacing If Else Chains with Switch <br>
 
-### Day 43:
+### Day 43-45: Jan 3,4,5 Mon Tue Wed
+
+Practiced Boolean values in functions.
+Learned basics in JavaScipt objects.
+Explored accessing objects.
+
+### Day 46: Jan 6 Thursday
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
