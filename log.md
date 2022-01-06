@@ -296,6 +296,11 @@ Explored accessing objects.
 
 ### Day 46: Jan 6 Thursday
 
+• Learned JavaScript objects.
+• Learned add new properties to JS objects and delete properties from JS objects.
+
+### Day 47:Jan 7
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
