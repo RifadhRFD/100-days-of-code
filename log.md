@@ -299,7 +299,13 @@ Explored accessing objects.
 • Learned JavaScript objects.
 • Learned add new properties to JS objects and delete properties from JS objects.
 
-### Day 47:Jan 7
+### Day 47,48:Jan 7,8 Friday,Saturday
+
+Learned accessing and Updating JS object properties.
+Learned accessing nested arrays and objects.
+Learned JS Iterations.
+
+### Day 49:Jan 9 Sunday
 
 <br/><br/><br/>
 Link(s) to work
