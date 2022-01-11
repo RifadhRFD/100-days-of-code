@@ -310,7 +310,12 @@ Learned JS Iterations.
 Learned JavaScript Do..While loops
 Learn recursion using loops
 
-### Day
+### Day 50,51:Jan 10 11 Monday Tuesday
+
+Learned to generate Javascript Fraction Whole number.
+Explored on generating whole number in range.
+
+### Day 52:
 
 <br/><br/><br/>
 Link(s) to work
