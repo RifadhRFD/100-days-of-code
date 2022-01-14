@@ -315,7 +315,12 @@ Learn recursion using loops
 Learned to generate Javascript Fraction Whole number.
 Explored on generating whole number in range.
 
-### Day 52:
+### Day 52,53,54:Wednesday Thurday Friday
+
+Completed JavaScript Basics @freecodecamp
+Watch @youtube tutorial about Basic JavaScript @codestackr
+
+### Day 55:
 
 <br/><br/><br/>
 Link(s) to work
