@@ -329,7 +329,9 @@ Explored JSON data types and other functions..
 
 ### Day 56: Jan 20, Thursday
 
-Revised Basic Javascript @ freecodecamp @youtube
+• lost the progress for some days due to some traumatic schedule but again back to code.
+"Ups and Downs 🚀"
+• Revised 70% of Basic JavaScript @freeCodeCamp @YouTube Page.
 
 ### Day 57:
 
