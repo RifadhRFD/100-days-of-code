@@ -333,7 +333,12 @@ Explored JSON data types and other functions..
 "Ups and Downs 🚀"
 • Revised 70% of Basic JavaScript @freeCodeCamp @YouTube Page.
 
-### Day 57:
+### Day 57: Jan 21, Friday
+
+Completely revised Basic Javascript @freecodecamp Youtube Page
+3 and half hour tutorial from @freeCodeCamp YouTube Page.
+
+### Day 58:Jan 22, Saturday
 
 <br/><br/><br/>
 Link(s) to work
