@@ -340,6 +340,13 @@ Completely revised Basic Javascript @freecodecamp Youtube Page
 
 ### Day 58:Jan 22, Saturday
 
+ES6, released in 2015, added many powerful new features to the language.
+Learned some basic ES6 features.
+Use arrow functions with parameter, Mutate array declared in const
+Use destructing assignments to assign variables from object
+
+### Day 59:Jan 23, Sunday
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
