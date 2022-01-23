@@ -347,6 +347,12 @@ Use destructing assignments to assign variables from object
 
 ### Day 59:Jan 23, Sunday
 
+→Completed ES6 in JS @freeCodeCamp
+• Learned to use class, setter and getters to control access to objects.
+• Learned import, export, export default, JS Promise with resolve and reject.
+
+### Day 60: Jan 24, Monday
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
