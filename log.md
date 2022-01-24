@@ -353,6 +353,10 @@ Use destructing assignments to assign variables from object
 
 ### Day 60: Jan 24, Monday
 
+• Learned Regular expression in JS.
+Ex: test() match()
+• Match Alphabet, Numbers and characters that occur one or more times | zero or more times.
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
