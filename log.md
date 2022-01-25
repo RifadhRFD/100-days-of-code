@@ -357,6 +357,13 @@ Use destructing assignments to assign variables from object
 Ex: test() match()
 • Match Alphabet, Numbers and characters that occur one or more times | zero or more times.
 
+### Day 61:Jan 25,Tuesday
+
+Learned some Advance Regular expression
+Match numbers, letters, whitespace, non whitespace characters, Upper and Lower Number and positive-negative Lookahead
+
+### Day 62:Jan 26
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freecodecamp.com/challenges/
