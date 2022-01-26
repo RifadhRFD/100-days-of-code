@@ -359,11 +359,17 @@ Ex: test() match()
 
 ### Day 61:Jan 25,Tuesday
 
-Learned some Advance Regular expression
-Match numbers, letters, whitespace, non whitespace characters, Upper and Lower Number and positive-negative Lookahead
+• Learned some Advance Regular expression.
+• Match numbers, letters, whitespace, non whitespace characters, Upper and Lower Number and positive-negative Lookahead.
 
-### Day 62:Jan 26
+### Day 62:Jan 26,Wednesday
+
+→Learned some JS debugging
+• Debugging is the process of going through your code, finding issues, and fixing them.
+Ex: syntax errors, runtime errors, logical errors.
+
+### Day 63: Jan 27, Thursday
 
 <br/><br/><br/>
 Link(s) to work
-https://www.freecodecamp.com/challenges/
+https://www.freeCodeCamp.com/challenges/
