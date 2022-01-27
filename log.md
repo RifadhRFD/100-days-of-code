@@ -370,6 +370,13 @@ Ex: syntax errors, runtime errors, logical errors.
 
 ### Day 63: Jan 27, Thursday
 
+→Learned some Basic Data Structures
+• Add items to array with push() and unshift().
+• Remove items from array using pop() and shift().
+• Using splice() to add and remove array items.
+
+### Day 64: Jan 28, Friday
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freeCodeCamp.com/challenges/
