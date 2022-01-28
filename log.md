@@ -376,6 +376,10 @@ Ex: syntax errors, runtime errors, logical errors.
 • Using splice() to add and remove array items.
 
 ### Day 64: Jan 28, Friday
+→Learned Basic Data Structures
+• Add key value pairs in JS Objects
+• Use delete keyword to remove object properties.
+• Modify array stored in Object.
 
 <br/><br/><br/>
 Link(s) to work
