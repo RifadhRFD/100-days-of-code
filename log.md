@@ -387,7 +387,13 @@ Ex: syntax errors, runtime errors, logical errors.
 →Completed Basic Data Structures in JavaScript @freeCodeCamp
 Array [push,unshift,pop,shift,splice], spread operator, multi-dimensional array, nested array, key-value pairs .....
 
-### Day 66: Jan 30, Sunday
+### Day 66,67: Jan 30,31 Sunday Monday
+
+Learning Basic Algorithm Scripting in JS
+
+converting temperatures, reversing string, finding longest word and more...
+
+### Day 68:
 
 <br/><br/><br/>
 Link(s) to work
