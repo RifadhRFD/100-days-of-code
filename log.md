@@ -394,9 +394,17 @@ Learning Basic Algorithm Scripting in JS
 converting temperatures, reversing string, finding longest word and more...
 
 ### Day 68-69:Jan 1,2 Tuesday Wednesday
+
 Completed Basic Algorithm Scripting @freeCodeCamp
-Learned new things using the intermediate task in Algo Scripting 
+Learned new things using the intermediate task in Algo Scripting
 with the help of freeCodeCamp forum and other sites
+
+### Day 70:Jan 3 Thursday
+
+-> Learned few OOP concept in JavaScript
+• JS Objects, accessing objects, using constructors, constructor with arguments, Reduce duplicate code, Understand properties.
+
+### Day 71:Jan 4 Friday
 
 <br/><br/><br/>
 Link(s) to work
