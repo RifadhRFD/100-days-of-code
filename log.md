@@ -406,6 +406,9 @@ with the help of freeCodeCamp forum and other sites
 
 ### Day 71:Jan 4 Friday
 
+-> Learned few OOP concept in JavaScript
+• prototype chain, Inheritance, override inherited methods
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freeCodeCamp.com/challenges/
