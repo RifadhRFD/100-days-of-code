@@ -409,6 +409,11 @@ with the help of freeCodeCamp forum and other sites
 -> Learned few OOP concept in JavaScript
 • prototype chain, Inheritance, override inherited methods
 
+### Day 72:Jan 5 Saturday
+
+-> Completed OOP concept in JavaScript @freeCodeCamp
+•basic principles of OOP in JavaScript, including the this keyword, prototype chains, constructors, and inheritance.
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freeCodeCamp.com/challenges/
