@@ -414,6 +414,14 @@ with the help of freeCodeCamp forum and other sites
 -> Completed OOP concept in JavaScript @freeCodeCamp
 •basic principles of OOP in JavaScript, including the this keyword, prototype chains, constructors, and inheritance.
 
+### Day 73: Jan 9 Wednesday
+
+after some days of procrastination Learned functional programming in JS.
+Understand functional prog... terminology, some hazards of using imperative code and refactor global
+variables out of functions.
+
+### Day 74
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freeCodeCamp.com/challenges/
