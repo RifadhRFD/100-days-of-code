@@ -420,19 +420,26 @@ after some days of procrastination Learned functional programming in JS.
 Understand functional prog... terminology, some hazards of using imperative code and refactor global
 variables out of functions.
 
-### Day 74
+### Day 74:Jan 10 Thursday
 
 ->filter() slice() reduce()
 •learned filter method to extract data from arrays.
 •Used slice method to return part of arrayand remove part of array using slice method.
 •Used reduce method to analyze data.
 
-### Day 75
+### Day 75:Jan 11 Friday
 
 •Completed functional programming in
 @freeCodeCamp
 with help of forum and google (tricky section of JS)
 •Learned sort() join() function, convert string to URL Slugs.
+
+### Day 76:Jan 12 Saturday
+
+Learned some Intermediate Algorithm Scripting challenges.
+Explored on freecodecamp forum to solve problem due to it's complexity.
+
+### Day 77:
 
 <br/><br/><br/>
 Link(s) to work
