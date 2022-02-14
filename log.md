@@ -439,7 +439,10 @@ with help of forum and google (tricky section of JS)
 Learned some Intermediate Algorithm Scripting challenges.
 Explored on freecodecamp forum to solve problem due to it's complexity.
 
-### Day 77:
+### Day 77,78:Jan 13,14 Sunday Monday
+
+• Learned some Intermediate Algorithm Scripting challenges.
+• sum of all Fibonacci numbers and sum of all primes
 
 <br/><br/><br/>
 Link(s) to work
