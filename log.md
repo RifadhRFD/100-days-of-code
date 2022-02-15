@@ -444,6 +444,13 @@ Explored on freecodecamp forum to solve problem due to it's complexity.
 • Learned some Intermediate Algorithm Scripting challenges.
 • sum of all Fibonacci numbers and sum of all primes
 
+### Day 79:Jan 15 Tuesday
+
+• Learned some Advance Algorithm Scripting challenges.
+--> Algo in JS🥴
+
+### Day 80: Jan 16 Wednesday
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freeCodeCamp.com/challenges/
