@@ -449,7 +449,9 @@ Explored on freecodecamp forum to solve problem due to it's complexity.
 • Learned some Advance Algorithm Scripting challenges.
 --> Algo in JS🥴
 
-### Day 80: Jan 16 Wednesday
+### Day 80-81: Jan 16,17 Wednesday,Thursday
+
+• Completed Advance Algorithm Scripting challenges @freeCodeCamp --> need to learn JavaScript algorithm again as it is more complex than other concept which I learned before.
 
 <br/><br/><br/>
 Link(s) to work
