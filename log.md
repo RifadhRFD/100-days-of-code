@@ -393,65 +393,71 @@ Learning Basic Algorithm Scripting in JS
 
 converting temperatures, reversing string, finding longest word and more...
 
-### Day 68-69:Jan 1,2 Tuesday Wednesday
+### Day 68-69:Feb 1,2 Tuesday Wednesday
 
 Completed Basic Algorithm Scripting @freeCodeCamp
 Learned new things using the intermediate task in Algo Scripting
 with the help of freeCodeCamp forum and other sites
 
-### Day 70:Jan 3 Thursday
+### Day 70:Feb 3 Thursday
 
 -> Learned few OOP concept in JavaScript
 • JS Objects, accessing objects, using constructors, constructor with arguments, Reduce duplicate code, Understand properties.
 
-### Day 71:Jan 4 Friday
+### Day 71:Feb 4 Friday
 
 -> Learned few OOP concept in JavaScript
 • prototype chain, Inheritance, override inherited methods
 
-### Day 72:Jan 5 Saturday
+### Day 72:Feb 5 Saturday
 
 -> Completed OOP concept in JavaScript @freeCodeCamp
 •basic principles of OOP in JavaScript, including the this keyword, prototype chains, constructors, and inheritance.
 
-### Day 73: Jan 9 Wednesday
+### Day 73: Feb 9 Wednesday
 
 after some days of procrastination Learned functional programming in JS.
 Understand functional prog... terminology, some hazards of using imperative code and refactor global
 variables out of functions.
 
-### Day 74:Jan 10 Thursday
+### Day 74:Feb 10 Thursday
 
 ->filter() slice() reduce()
 •learned filter method to extract data from arrays.
 •Used slice method to return part of arrayand remove part of array using slice method.
 •Used reduce method to analyze data.
 
-### Day 75:Jan 11 Friday
+### Day 75:Feb 11 Friday
 
 •Completed functional programming in
 @freeCodeCamp
 with help of forum and google (tricky section of JS)
 •Learned sort() join() function, convert string to URL Slugs.
 
-### Day 76:Jan 12 Saturday
+### Day 76:Feb 12 Saturday
 
 Learned some Intermediate Algorithm Scripting challenges.
 Explored on freecodecamp forum to solve problem due to it's complexity.
 
-### Day 77,78:Jan 13,14 Sunday Monday
+### Day 77,78:Feb 13,14 Sunday Monday
 
 • Learned some Intermediate Algorithm Scripting challenges.
 • sum of all Fibonacci numbers and sum of all primes
 
-### Day 79:Jan 15 Tuesday
+### Day 79:Feb 15 Tuesday
 
 • Learned some Advance Algorithm Scripting challenges.
 --> Algo in JS🥴
 
-### Day 80-81: Jan 16,17 Wednesday,Thursday
+### Day 80-81: Feb 16,17 Wednesday,Thursday
 
 • Completed Advance Algorithm Scripting challenges @freeCodeCamp --> need to learn JavaScript algorithm again as it is more complex than other concept which I learned before.
+
+### Day 82,83,84 :Feb 18,19,20 Friday,Saturday,Sunday
+
+• Re-learned some Basic JavaScript.
+
+### Day 85 : Feb 21 Monday
 
 <br/><br/><br/>
 Link(s) to work
