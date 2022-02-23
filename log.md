@@ -457,7 +457,9 @@ Explored on freecodecamp forum to solve problem due to it's complexity.
 
 • Re-learned some Basic JavaScript.
 
-### Day 85 : Feb 21 Monday
+### Day 85 : Feb 23 Wednesday
+
+• Watched Basic JavaScript @freecodecamp Youtube.
 
 <br/><br/><br/>
 Link(s) to work
