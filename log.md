@@ -461,6 +461,15 @@ Explored on freecodecamp forum to solve problem due to it's complexity.
 
 • Watched Basic JavaScript @freecodecamp Youtube.
 
+### Day 86-87 : Feb 25-26
+
+Repeat @freeCodeCamp
+• Basic JavaScript  
+• JavaScript Loops
+• ES6 Arrow Functions
+
+### Day 88 :
+
 <br/><br/><br/>
 Link(s) to work
 https://www.freeCodeCamp.com/challenges/
