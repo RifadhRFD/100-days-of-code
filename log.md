@@ -479,7 +479,7 @@ Learned working with Data and API in JavaScript.
 
 * Learned to deploy website.
 
-### Day 93: Mar 4
+### Day 93: Mar 4 Fri
 
 <br/><br/><br/>
 Link(s) to work
