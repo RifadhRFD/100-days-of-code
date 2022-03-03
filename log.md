@@ -461,14 +461,25 @@ Explored on freecodecamp forum to solve problem due to it's complexity.
 
 • Watched Basic JavaScript @freecodecamp Youtube.
 
-### Day 86-87 : Feb 25-26
+### Day 86-87 : Feb 25-26 Thurs and Fri
 
 Repeat @freeCodeCamp
 • Basic JavaScript  
 • JavaScript Loops
 • ES6 Arrow Functions
 
-### Day 88 :
+### Day 88 :Feb 27 Sun
+
+Learned JavaScript Callback, Promises, Async/Await.
+
+### Day 89-90: Feb 28,Mar1  Mond Tue
+Learned working with Data and API in JavaScript.
+
+### Day 91,92: Mar 2,3  Wed Thurs
+
+* Learned to deploy website.
+
+### Day 93: Mar 4
 
 <br/><br/><br/>
 Link(s) to work
